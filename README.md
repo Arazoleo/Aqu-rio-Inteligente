@@ -255,9 +255,4 @@ aquario.asm
 
 ---
 
-## Autores
-
-Projeto desenvolvido para a disciplina de Arquitetura e Organizacao de Computadores.
-
-UNIFESP - Instituto de Ciencia e Tecnologia
 
